@@ -1,0 +1,15 @@
+ElementEvil - NEWS
+------------------
+1. Vurnata e originalnata tochka (po 39 choveka)
+2. Dobaven e timer za da ne mogat da skachat 2 ili poveche hora ednovremenno na tochka
+3. Dobavena e Neutral zonata ot Bulga 5.5
+4. Dobavena e Adun zonata ot Bulga 10 (portala se namira pod Crontas)
+5. Upgrade na pushki i MK3 se hvashtat ot Engineer v Adun zonata
+6. Za planovete ne se iziskva kills, samo korab s dostatuchno range
+7. Normalizirano e praveneto na exp
+8. Mystery Box veche davat ot 50 do 250k i ot 1 do 10 exp (do 2600 exp!)
+9. Mystery Box veche shte vi davat ship samo ako imate dostatuchno exp za nego
+10. Agronaut korabi se hvashtat ot novoto GK v Adun zonata
+11. Shape Shifter sa premesteni v Adun zonata (dqsnata planeta) i davat do 2600 exp
+12. Ima SOS list, za da vidite komandite pishete !help v chata
+13. Andros korabite pravqt 7% poveche damage, a Argonaut 13% poveche dmg
